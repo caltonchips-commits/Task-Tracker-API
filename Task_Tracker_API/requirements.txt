@@ -1,0 +1,4 @@
+# Install the Flask web framework.
+Flask>=3.0.0
+# Install cross-origin request support.
+Flask-Cors>=4.0.0
