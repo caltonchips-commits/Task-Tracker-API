@@ -50,6 +50,6 @@ Task Tracker API is a small Flask application for creating, viewing, updating, f
 
 ## AI Use Acknowledgement
 
-GitHub Copilot was used as an AI coding assistant during this project. AI assistance was used to explain existing code, add simple comments, identify bugs, repair Python and JavaScript issues, connect the Flask application to the page files, improve CSS consistency, and help test the API workflows.
+GitHub Copilot was used as an AI coding assistant during this project. AI assistance was used to add simple comments, identify bugs, repair Python and JavaScript issues, connect the Flask application to the page files, improve CSS consistency, and help test the API workflows.
 
 The project was reviewed and tested in Visual Studio Code. The tools used included the VS Code editor, GitHub Copilot, Python, Flask, Flask-CORS, SQLite, JavaScript syntax checking with Node.js, and Flask's test client. The developer remained responsible for reviewing the suggestions, choosing the changes, and checking that the application worked correctly.
